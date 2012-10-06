@@ -1,0 +1,7 @@
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Desktop:Resources Kit.4dbase:Resources Kit[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:Desktop:Resources Kit.4dbase:Resources Kit[0000].4BL
+Scheduled : 11.07.03 00:00:00
+Starting : 11.07.04 18:36:06
+Ending : 11.07.04 18:36:07
+
